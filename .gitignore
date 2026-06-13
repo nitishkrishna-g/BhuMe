@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Data bundles (large TIFs — download from https://hiring.bhume.in/start)
+data/**/imagery.tif
+data/**/boundaries.tif
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Gemini agent state (not part of the submission)
+.gemini/
