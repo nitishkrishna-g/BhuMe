@@ -12,11 +12,11 @@ of the cadastral boundary correction pipeline. AI was used in two ways:
 
 | File | Purpose | Tool |
 |---|---|---|
-| [`gemini_session.md`](./gemini_session.md) | Primary development session — full implementation from research to submission | Google Gemini (Antigravity) |
+| [`claude_session.md`](./claude_session.md) | Primary development session — full implementation from research to submission | Claude Opus 4.6 (Antigravity) |
 
 ## Web Chat Share Links
 
-- **Primary coding session (Gemini)**: Used throughout for code generation, debugging, and iteration
+- **Primary coding session (Claude)**: Used throughout for code generation, debugging, and iteration
 - **Research on cross-correlation for geospatial alignment**: Studied FFT-based template matching,
   NCC normalization strategies, and multi-pass alignment approaches
 
